@@ -5,3 +5,4 @@
 ![image](./src/assets/images/tienda3.png)
 ![image](./src/assets/images/tienda4.png)
 ![image](./src/assets/images/tienda5.png)
+![image](./src/assets/images/tienda6.png)
